@@ -1,9 +1,9 @@
 ﻿<ItemFilter xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
-  <name>O 1.23</name>
+  <name>O_1.24_1</name>
   <filterIcon>21</filterIcon>
   <filterIconColor>9</filterIconColor>
   <description>BINA'S MASTER FILTER - You **MUST** select Affixes in EIGHT rules. These rules contain **ADD WANTED AFFIXES** in their description. Last updated - Feb 24 2024</description>
-  <lastModifiedInVersion>1.0.2</lastModifiedInVersion>
+  <lastModifiedInVersion>1.0.2.1</lastModifiedInVersion>
   <lootFilterVersion>2</lootFilterVersion>
   <rules>
     <Rule>
@@ -3263,6 +3263,37 @@
             <EquipmentType>BELT</EquipmentType>
           </type>
           <subTypes />
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>27</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>6</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>BELT</EquipmentType>
+          </type>
+          <subTypes>
+            <int>7</int>
+          </subTypes>
         </Condition>
       </conditions>
       <color>7</color>
