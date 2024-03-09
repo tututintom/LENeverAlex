@@ -3403,6 +3403,86 @@
     <Rule>
       <type>HIGHLIGHT</type>
       <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>107</int>
+            <int>168</int>
+            <int>162</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride>Health &amp; cri</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>502</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>BODY_ARMOR</EquipmentType>
+          </type>
+          <subTypes>
+            <int>41</int>
+            <int>22</int>
+          </subTypes>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>502</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>7</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
         <Condition i:type="RarityCondition">
           <rarity>UNIQUE</rarity>
         </Condition>
