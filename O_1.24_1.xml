@@ -1518,7 +1518,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1543,7 +1543,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1568,7 +1568,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1592,7 +1592,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1616,7 +1616,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1640,7 +1640,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1663,7 +1663,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1686,7 +1686,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>35</minLvl>
       <maxLvl>100</maxLvl>
@@ -1720,7 +1720,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2196,7 +2196,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2224,7 +2224,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2247,7 +2247,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2276,7 +2276,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2305,7 +2305,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2338,7 +2338,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2362,7 +2362,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2391,7 +2391,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2415,7 +2415,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2438,7 +2438,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2461,7 +2461,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2490,7 +2490,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -3377,6 +3377,7 @@
             <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
             <EquipmentType>WAND</EquipmentType>
             <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
+            <EquipmentType>IDOL_1x1_ETERRA</EquipmentType>
           </type>
           <subTypes />
         </Condition>
