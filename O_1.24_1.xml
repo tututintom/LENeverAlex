@@ -1518,7 +1518,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1543,7 +1543,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1568,7 +1568,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1592,7 +1592,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1616,7 +1616,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1640,7 +1640,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1663,7 +1663,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -1686,7 +1686,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>35</minLvl>
       <maxLvl>100</maxLvl>
@@ -1720,7 +1720,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2196,7 +2196,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2224,7 +2224,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2247,7 +2247,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2276,7 +2276,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2305,7 +2305,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2338,7 +2338,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2362,7 +2362,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2391,7 +2391,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2415,7 +2415,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2438,7 +2438,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2461,7 +2461,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -2490,33 +2490,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
-      <levelDependent>false</levelDependent>
-      <minLvl>0</minLvl>
-      <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
-      <nameOverride />
-    </Rule>
-    <Rule>
-      <type>HIGHLIGHT</type>
-      <conditions>
-        <Condition i:type="AffixCondition">
-          <affixes>
-            <int>503</int>
-          </affixes>
-          <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>6</comparsionValue>
-          <minOnTheSameItem>1</minOnTheSameItem>
-          <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>7</combinedComparsionValue>
-          <advanced>true</advanced>
-        </Condition>
-        <Condition i:type="ClassCondition">
-          <req>Any</req>
-        </Condition>
-      </conditions>
-      <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -3352,6 +3326,98 @@
           <combinedComparsion>ANY</combinedComparsion>
           <combinedComparsionValue>7</combinedComparsionValue>
           <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>503</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+        <Condition i:type="ClassCondition">
+          <req>Any</req>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>AMULET</EquipmentType>
+            <EquipmentType>RING</EquipmentType>
+            <EquipmentType>RELIC</EquipmentType>
+            <EquipmentType>BODY_ARMOR</EquipmentType>
+            <EquipmentType>BELT</EquipmentType>
+            <EquipmentType>BOOTS</EquipmentType>
+            <EquipmentType>GLOVES</EquipmentType>
+            <EquipmentType>CATALYST</EquipmentType>
+            <EquipmentType>SHIELD</EquipmentType>
+            <EquipmentType>QUIVER</EquipmentType>
+            <EquipmentType>TWO_HANDED_AXE</EquipmentType>
+            <EquipmentType>TWO_HANDED_MACE</EquipmentType>
+            <EquipmentType>TWO_HANDED_SPEAR</EquipmentType>
+            <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
+            <EquipmentType>TWO_HANDED_SWORD</EquipmentType>
+            <EquipmentType>BOW</EquipmentType>
+            <EquipmentType>ONE_HANDED_AXE</EquipmentType>
+            <EquipmentType>ONE_HANDED_MACES</EquipmentType>
+            <EquipmentType>ONE_HANDED_SCEPTRE</EquipmentType>
+            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
+            <EquipmentType>WAND</EquipmentType>
+            <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
+          </type>
+          <subTypes />
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>503</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+        <Condition i:type="ClassCondition">
+          <req>Any</req>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>HELMET</EquipmentType>
+          </type>
+          <subTypes>
+            <int>69</int>
+            <int>68</int>
+            <int>67</int>
+            <int>50</int>
+            <int>46</int>
+            <int>45</int>
+          </subTypes>
         </Condition>
       </conditions>
       <color>7</color>
