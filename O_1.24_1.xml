@@ -3437,5 +3437,32 @@
       <emphasized>true</emphasized>
       <nameOverride />
     </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>AMULET</EquipmentType>
+          </type>
+          <subTypes>
+            <int>5</int>
+          </subTypes>
+        </Condition>
+        <Condition i:type="RarityCondition">
+          <rarity>UNIQUE</rarity>
+        </Condition>
+        <Condition i:type="LevelCondition">
+          <treshold>2</treshold>
+          <type>BELOW_LEVEL</type>
+        </Condition>
+      </conditions>
+      <color>2</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride>Gambler's Fallacy</nameOverride>
+    </Rule>
   </rules>
 </ItemFilter>
