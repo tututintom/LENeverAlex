@@ -3505,7 +3505,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>true</emphasized>
-      <nameOverride />
+      <nameOverride>Red Ring of Atlaria</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -3522,8 +3522,8 @@
           <rarity>UNIQUE</rarity>
         </Condition>
         <Condition i:type="LevelCondition">
-          <treshold>75</treshold>
-          <type>ABOVE_LEVEL</type>
+          <treshold>80</treshold>
+          <type>BELOW_LEVEL</type>
         </Condition>
       </conditions>
       <color>2</color>
@@ -3532,7 +3532,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>true</emphasized>
-      <nameOverride />
+      <nameOverride>Orian's Eye</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -3559,7 +3559,7 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>true</emphasized>
-      <nameOverride />
+      <nameOverride>Oceareon</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -3582,7 +3582,34 @@
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
       <emphasized>true</emphasized>
-      <nameOverride />
+      <nameOverride>Exsanguinous</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>BELT</EquipmentType>
+          </type>
+          <subTypes>
+            <int>1</int>
+          </subTypes>
+        </Condition>
+        <Condition i:type="LevelCondition">
+          <treshold>10</treshold>
+          <type>BELOW_LEVEL</type>
+        </Condition>
+        <Condition i:type="RarityCondition">
+          <rarity>UNIQUE</rarity>
+        </Condition>
+      </conditions>
+      <color>2</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride>Jungle Queen's Chaps of Holding</nameOverride>
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
