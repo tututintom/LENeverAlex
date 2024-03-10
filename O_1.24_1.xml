@@ -2259,35 +2259,6 @@
       <conditions>
         <Condition i:type="SubTypeCondition">
           <type>
-            <EquipmentType>BOOTS</EquipmentType>
-          </type>
-          <subTypes />
-        </Condition>
-        <Condition i:type="AffixCondition">
-          <affixes>
-            <int>36</int>
-          </affixes>
-          <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>6</comparsionValue>
-          <minOnTheSameItem>1</minOnTheSameItem>
-          <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>6</combinedComparsionValue>
-          <advanced>true</advanced>
-        </Condition>
-      </conditions>
-      <color>7</color>
-      <isEnabled>true</isEnabled>
-      <levelDependent>false</levelDependent>
-      <minLvl>0</minLvl>
-      <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
-      <nameOverride />
-    </Rule>
-    <Rule>
-      <type>HIGHLIGHT</type>
-      <conditions>
-        <Condition i:type="SubTypeCondition">
-          <type>
             <EquipmentType>ONE_HANDED_DAGGER</EquipmentType>
           </type>
           <subTypes>
@@ -3463,6 +3434,29 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>502</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>7</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>28</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
