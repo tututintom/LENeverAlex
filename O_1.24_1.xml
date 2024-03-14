@@ -3,7 +3,7 @@
   <filterIcon>21</filterIcon>
   <filterIconColor>9</filterIconColor>
   <description>BINA'S MASTER FILTER - You **MUST** select Affixes in EIGHT rules. These rules contain **ADD WANTED AFFIXES** in their description. Last updated - Feb 24 2024</description>
-  <lastModifiedInVersion>1.0.2.1</lastModifiedInVersion>
+  <lastModifiedInVersion>1.0.3</lastModifiedInVersion>
   <lootFilterVersion>2</lootFilterVersion>
   <rules>
     <Rule>
@@ -372,6 +372,9 @@
             <int>758</int>
             <int>718</int>
             <int>119</int>
+            <int>107</int>
+            <int>105</int>
+            <int>117</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>6</comparsionValue>
@@ -388,6 +391,34 @@
       <maxLvl>0</maxLvl>
       <emphasized>true</emphasized>
       <nameOverride>???</nameOverride>
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>107</int>
+            <int>105</int>
+            <int>716</int>
+            <int>119</int>
+            <int>177</int>
+            <int>142</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+      </conditions>
+      <color>9</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>false</emphasized>
+      <nameOverride />
     </Rule>
     <Rule>
       <type>HIGHLIGHT</type>
@@ -442,7 +473,7 @@
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
+      <emphasized>false</emphasized>
       <nameOverride />
     </Rule>
     <Rule>
@@ -2498,36 +2529,6 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>718</int>
-            <int>721</int>
-          </affixes>
-          <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>6</comparsionValue>
-          <minOnTheSameItem>1</minOnTheSameItem>
-          <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>6</combinedComparsionValue>
-          <advanced>true</advanced>
-        </Condition>
-        <Condition i:type="SubTypeCondition">
-          <type>
-            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
-          </type>
-          <subTypes />
-        </Condition>
-      </conditions>
-      <color>7</color>
-      <isEnabled>true</isEnabled>
-      <levelDependent>false</levelDependent>
-      <minLvl>0</minLvl>
-      <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
-      <nameOverride />
-    </Rule>
-    <Rule>
-      <type>HIGHLIGHT</type>
-      <conditions>
-        <Condition i:type="AffixCondition">
-          <affixes>
             <int>733</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
@@ -2611,13 +2612,13 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>643</int>
+            <int>721</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>7</comparsionValue>
+          <comparsionValue>6</comparsionValue>
           <minOnTheSameItem>1</minOnTheSameItem>
           <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>7</combinedComparsionValue>
+          <combinedComparsionValue>6</combinedComparsionValue>
           <advanced>true</advanced>
         </Condition>
         <Condition i:type="SubTypeCondition">
@@ -2640,14 +2641,21 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>726</int>
+            <int>643</int>
+            <int>718</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>6</comparsionValue>
+          <comparsionValue>7</comparsionValue>
           <minOnTheSameItem>1</minOnTheSameItem>
           <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>6</combinedComparsionValue>
+          <combinedComparsionValue>7</combinedComparsionValue>
           <advanced>true</advanced>
+        </Condition>
+        <Condition i:type="SubTypeCondition">
+          <type>
+            <EquipmentType>ONE_HANDED_SWORD</EquipmentType>
+          </type>
+          <subTypes />
         </Condition>
       </conditions>
       <color>7</color>
@@ -2747,6 +2755,7 @@
             <EquipmentType>RING</EquipmentType>
             <EquipmentType>AMULET</EquipmentType>
             <EquipmentType>RELIC</EquipmentType>
+            <EquipmentType>TWO_HANDED_STAFF</EquipmentType>
           </type>
           <subTypes />
         </Condition>
@@ -3138,6 +3147,7 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>27</int>
+            <int>36</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
@@ -3253,7 +3263,6 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>107</int>
             <int>168</int>
             <int>162</int>
             <int>251</int>
@@ -3268,7 +3277,7 @@
         </Condition>
       </conditions>
       <color>7</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -3387,17 +3396,65 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
+            <int>709</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
             <int>36</int>
             <int>557</int>
             <int>4</int>
             <int>385</int>
             <int>461</int>
+            <int>391</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
           <minOnTheSameItem>1</minOnTheSameItem>
           <combinedComparsion>ANY</combinedComparsion>
           <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>726</int>
+            <int>557</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>6</combinedComparsionValue>
           <advanced>true</advanced>
         </Condition>
       </conditions>
