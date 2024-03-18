@@ -3040,6 +3040,7 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>23</int>
+            <int>718</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
@@ -3918,6 +3919,30 @@
         </Condition>
         <Condition i:type="ClassCondition">
           <req>Rogue</req>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>185</int>
+            <int>254</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
         </Condition>
       </conditions>
       <color>7</color>
