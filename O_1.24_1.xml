@@ -985,7 +985,7 @@
         </Condition>
       </conditions>
       <color>1</color>
-      <isEnabled>false</isEnabled>
+      <isEnabled>true</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
@@ -3742,66 +3742,6 @@
       <conditions>
         <Condition i:type="AffixCondition">
           <affixes>
-            <int>36</int>
-            <int>557</int>
-            <int>4</int>
-            <int>385</int>
-            <int>461</int>
-            <int>391</int>
-            <int>712</int>
-            <int>714</int>
-            <int>28</int>
-            <int>502</int>
-          </affixes>
-          <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>7</comparsionValue>
-          <minOnTheSameItem>1</minOnTheSameItem>
-          <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>7</combinedComparsionValue>
-          <advanced>true</advanced>
-        </Condition>
-      </conditions>
-      <color>7</color>
-      <isEnabled>true</isEnabled>
-      <levelDependent>false</levelDependent>
-      <minLvl>0</minLvl>
-      <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
-      <nameOverride />
-    </Rule>
-    <Rule>
-      <type>HIGHLIGHT</type>
-      <conditions>
-        <Condition i:type="AffixCondition">
-          <affixes>
-            <int>726</int>
-            <int>557</int>
-            <int>733</int>
-            <int>334</int>
-            <int>675</int>
-            <int>640</int>
-          </affixes>
-          <comparsion>MORE_OR_EQUAL</comparsion>
-          <comparsionValue>6</comparsionValue>
-          <minOnTheSameItem>1</minOnTheSameItem>
-          <combinedComparsion>ANY</combinedComparsion>
-          <combinedComparsionValue>6</combinedComparsionValue>
-          <advanced>true</advanced>
-        </Condition>
-      </conditions>
-      <color>7</color>
-      <isEnabled>true</isEnabled>
-      <levelDependent>false</levelDependent>
-      <minLvl>0</minLvl>
-      <maxLvl>0</maxLvl>
-      <emphasized>true</emphasized>
-      <nameOverride />
-    </Rule>
-    <Rule>
-      <type>HIGHLIGHT</type>
-      <conditions>
-        <Condition i:type="AffixCondition">
-          <affixes>
             <int>119</int>
             <int>177</int>
           </affixes>
@@ -3888,6 +3828,95 @@
             <EquipmentType>RELIC</EquipmentType>
           </type>
           <subTypes />
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>36</int>
+            <int>557</int>
+            <int>4</int>
+            <int>385</int>
+            <int>461</int>
+            <int>391</int>
+            <int>712</int>
+            <int>714</int>
+            <int>28</int>
+            <int>502</int>
+            <int>679</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>7</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>7</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>726</int>
+            <int>557</int>
+            <int>733</int>
+            <int>334</int>
+            <int>675</int>
+            <int>640</int>
+            <int>679</int>
+          </affixes>
+          <comparsion>MORE_OR_EQUAL</comparsion>
+          <comparsionValue>6</comparsionValue>
+          <minOnTheSameItem>1</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>6</combinedComparsionValue>
+          <advanced>true</advanced>
+        </Condition>
+      </conditions>
+      <color>7</color>
+      <isEnabled>true</isEnabled>
+      <levelDependent>false</levelDependent>
+      <minLvl>0</minLvl>
+      <maxLvl>0</maxLvl>
+      <emphasized>true</emphasized>
+      <nameOverride />
+    </Rule>
+    <Rule>
+      <type>HIGHLIGHT</type>
+      <conditions>
+        <Condition i:type="AffixCondition">
+          <affixes>
+            <int>107</int>
+            <int>117</int>
+          </affixes>
+          <comparsion>ANY</comparsion>
+          <comparsionValue>0</comparsionValue>
+          <minOnTheSameItem>2</minOnTheSameItem>
+          <combinedComparsion>ANY</combinedComparsion>
+          <combinedComparsionValue>1</combinedComparsionValue>
+          <advanced>false</advanced>
+        </Condition>
+        <Condition i:type="ClassCondition">
+          <req>Rogue</req>
         </Condition>
       </conditions>
       <color>7</color>
