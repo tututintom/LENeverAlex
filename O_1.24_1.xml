@@ -985,7 +985,7 @@
         </Condition>
       </conditions>
       <color>1</color>
-      <isEnabled>true</isEnabled>
+      <isEnabled>false</isEnabled>
       <levelDependent>false</levelDependent>
       <minLvl>0</minLvl>
       <maxLvl>0</maxLvl>
