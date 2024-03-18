@@ -3854,6 +3854,7 @@
             <int>28</int>
             <int>502</int>
             <int>679</int>
+            <int>503</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
