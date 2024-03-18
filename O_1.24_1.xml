@@ -2951,6 +2951,7 @@
         <Condition i:type="AffixCondition">
           <affixes>
             <int>70</int>
+            <int>503</int>
           </affixes>
           <comparsion>MORE_OR_EQUAL</comparsion>
           <comparsionValue>7</comparsionValue>
